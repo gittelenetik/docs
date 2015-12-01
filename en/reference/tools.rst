@@ -70,7 +70,7 @@ You could add the parameter *--help* to get help on the usage of a certain scrip
     Phalcon DevTools (2.0.8)
 
     Help:
-      Creates a project
+      Creates a projectv
 
     Usage:
       project [name] [type] [directory] [enable-webtools]
@@ -340,7 +340,7 @@ Also, if you prefer, it's possible to use Phalcon Developer Tools from a web int
 
 .. raw:: html
 
-   <div align="center"><iframe src="http://player.vimeo.com/video/42367665" width="500" height="266" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+   <div align="center"><iframe src="https://player.vimeo.com/video/42367665" width="500" height="266" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 Integrating Tools with PhpStorm IDE
 -----------------------------------
@@ -348,7 +348,7 @@ The screencast below shows how to integrate developer tools with the `PhpStorm I
 
 .. raw:: html
 
-   <div align="center"><iframe src="http://player.vimeo.com/video/43455647" width="500" height="266" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+   <div align="center"><iframe src="//player.vimeo.com/video/43455647" width="500" height="266" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 Conclusion
 ----------
